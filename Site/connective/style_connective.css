@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: none;
+    text-align: center;
+  }
+  
+  
+  a {
+    text-decoration: none;
+    opacity: 0;
+    font-size: large;
+  }
+    
+  .flex-container {
+    height: 600px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .back {
+    align-self:flex-end;
+    background-image: url(../Circles/reflective.PNG);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+  }
+  
+  .forward {
+    align-self: flex-end;
+    align-self:flex-end;
+    background-image: url(../Circles/loop.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
+  }

@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+button {
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+    border-radius: 50px;
+    border: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    opacity: 1;
+    font-size: 15px;
+    text-align: center;
+    color: lightblue;
+}
+
+.flex-container {
+    min-height: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+.mindful {
+    background-image: url(./Circles/loop.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 2%;
+    padding: 10px;
+    opacity: .5;
+}
+
+.breathe {
+    color: lightgrey;
+}
+
+.playful {
+    background-image: url(./Circles/loop2.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 2%;
+    padding: 10px;
+    opacity: .5;
+}
+
+.play {
+    color: lightcoral;
+}
+
+.reflective {
+    background-image: url(./Circles/loop4.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 2%;
+    padding: 10px;
+    opacity: .5;
+}
+
+.reflect {
+    color: lightblue;
+}
+
+.connective {
+    background-image: url(./Circles/loop3.gif);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 2%;
+    padding: 10px;
+    opacity: .5;
+}
+
+.connect {
+    color: lightgreen;
+}
+
+img {
+    margin: 0;
+    height: 20%;
+}
