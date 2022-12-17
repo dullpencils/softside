@@ -33,7 +33,7 @@ a {
   }
 
 .mindful {
-    background-image: url(./Circles/loop.gif);
+    background-image: url(../Circles/loop.gif);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -47,7 +47,7 @@ a {
 }
 
 .playful {
-    background-image: url(./Circles/loop2.gif);
+    background-image: url(../Circles/loop2.gif);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -61,7 +61,7 @@ a {
 }
 
 .reflective {
-    background-image: url(./Circles/loop4.gif);
+    background-image: url(../Circles/loop4.gif);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -75,7 +75,7 @@ a {
 }
 
 .connective {
-    background-image: url(./Circles/loop3.gif);
+    background-image: url(../Circles/loop3.gif);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
